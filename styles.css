@@ -5,8 +5,14 @@
 }
 
 body {
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
+   /* 1920 */
+
+position: relative;
+width: 1920px;
+height: 700px;
+
+background: #E9DED4;
+
 }
 
 .container {
